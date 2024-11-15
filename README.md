@@ -1,4 +1,4 @@
-# Redes
+# Redes/Automação/FLYEVER
 
-Este projeto fornece instruções para a conexão e configuração de duas antenas com o objetivo de expandir o sinal de rede, aplicável em ambientes de médio alcance. Ele inclui uma lista de materiais, um guia de instalação e algumas dicas de você.
-Ampliar o sinal de rede para que seja possível a conexão de câmeras IP. 
+Esse projeto inclui procedimentos de instalação, teste e comunicação com o computador local. Isso torna possível
+a automação para máquina de grande porte de empresas industriais que utilizam Flyever(contador de paradas). 
